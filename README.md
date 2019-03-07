@@ -4,6 +4,11 @@
 
 ## March 2019
 
+##### 07.03.2019
+
+- 📝 [useTypescript — A Complete Guide to React Hooks and TypeScript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
+- 📝 [Scheduling in React](https://philippspiess.com/scheduling-in-react)
+
 ##### 04.03.2019
 
 - 💻 [Marble.js – a functional reactive HTTP framework built on top of Node.js platform, TypeScript and RxJS.](https://docs.marblejs.com)
