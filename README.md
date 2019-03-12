@@ -4,6 +4,11 @@
 
 ## March 2019
 
+##### 11.03.2019
+
+- 📝 [How to master advanced TypeScript patterns](https://medium.freecodecamp.org/typescript-curry-ramda-types-f747e99744ab)
+- 📝 [TypeScript 2.8: Conditional Types](https://mariusschulz.com/blog/typescript-2-8-conditional-types)
+
 ##### 07.03.2019
 
 - 📝 [useTypescript — A Complete Guide to React Hooks and TypeScript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
