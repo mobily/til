@@ -4,10 +4,18 @@
 
 ## March 2019
 
+##### 18.03.2019
+
+- 📝 [The 3 most effective ways to build trust as a leader](https://m.signalvnoise.com/the-3-most-effective-ways-to-build-trust-as-a-leader/)
+
 ##### 11.03.2019
 
 - 📝 [How to master advanced TypeScript patterns](https://medium.freecodecamp.org/typescript-curry-ramda-types-f747e99744ab)
 - 📝 [TypeScript 2.8: Conditional Types](https://mariusschulz.com/blog/typescript-2-8-conditional-types)
+
+##### 09.03.2019
+
+- 📝 [What I Enjoyed — and Suffered from — Writing ReasonML Code as a Junior Engineer](https://blog.usejournal.com/journey-with-reasonml-as-a-junior-developer-17ee53a25fa7)
 
 ##### 07.03.2019
 
