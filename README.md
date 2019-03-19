@@ -4,6 +4,11 @@
 
 ## March 2019
 
+##### 19.03.2019
+
+- 📝 [Avoiding any in TypeScript — advanced types and their usage](https://itnext.io/avoiding-any-in-typescript-advanced-types-and-their-usage-691b02ac345a)
+- 💻 [React + TypeScript Cheatsheets](https://github.com/sw-yx/react-typescript-cheatsheet)
+
 ##### 18.03.2019
 
 - 📝 [The 3 most effective ways to build trust as a leader](https://m.signalvnoise.com/the-3-most-effective-ways-to-build-trust-as-a-leader/)
