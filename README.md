@@ -7,6 +7,7 @@
 ##### 01.04.2019
 
 - 📝 [What the Functor?](https://www.matthewgerstman.com/tech/what-the-functor/)
+- 📝 [OCaml/ReasonML best practice: warnings and errors](https://dev.to/yawaramin/ocaml-reasonml-best-practice-warnings-and-errors-4mkm)
 
 ## March 2019
 
