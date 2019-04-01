@@ -2,6 +2,12 @@
 
 👨‍💻📝📽 A list of things I found interesting or I have learned recently.
 
+## April 2019
+
+##### 01.04.2019
+
+- 📝 [What the Functor?](https://www.matthewgerstman.com/tech/what-the-functor/)
+
 ## March 2019
 
 ##### 19.03.2019
