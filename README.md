@@ -4,6 +4,10 @@
 
 ## April 2019
 
+##### 23.04.2019
+
+- 📝 [Transducers: Efficient Data Processing Pipelines in JavaScript](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
+
 ##### 01.04.2019
 
 - 📝 [What the Functor?](https://www.matthewgerstman.com/tech/what-the-functor/)
