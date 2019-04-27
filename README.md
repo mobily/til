@@ -4,6 +4,13 @@
 
 ## April 2019
 
+##### 27.04.2019
+
+- 📝 [A thread by Dan Abramov on Concurrent React](https://threader.app/thread/1120971795425832961)
+- 💻 [URLSearchParams
+](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams)
+- 📝 [How to avoid this React Hooks performance pitfall](https://medium.com/@_m1010j_/how-to-avoid-this-react-hooks-performance-pitfall-28770ad9abe0)
+
 ##### 23.04.2019
 
 - 📝 [Transducers: Efficient Data Processing Pipelines in JavaScript](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
