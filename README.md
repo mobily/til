@@ -2,6 +2,12 @@
 
 👨‍💻📝📽 A list of things I found interesting or I have learned recently.
 
+## June 2019
+
+##### 27.06.2019
+
+- 📝 [How Frontend Developers Can Help To Bridge The Gap Between Designers And Developers](https://www.smashingmagazine.com/2019/05/frontend-developers-designers/)
+
 ## April 2019
 
 ##### 27.04.2019
